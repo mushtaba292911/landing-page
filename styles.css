@@ -73,16 +73,137 @@ h1 {
 .signup {
         padding-left: 70px;
         margin-top: 5px;
-        margin-left: 30px;
+        margin-left: 35px;
         font-size: 20px;
         padding: 2px 2px 2px 2px;
         
 }
 
 .image-place-holder {
-    width: 750px;
     height: auto;
     margin-left: 500px;
-    margin-top: -100px;
+    margin-top: -150px;
+    width: 700px;
+}
+
+.secondbox {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bolder;
+    text-shadow: 2px 2px rgb(41, 41, 41);
+    text-align: center;
+    margin-top: 0.5px;
+    padding-top: 35px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.buy-image{
+
+    width: 400px;
+    height: 500px;
+    border: 2px solid rgb(77, 77, 77);
+    border-radius: 20%;
+
+    
+    
+}
+
+.sell-image{
+    width: 400px;
+    height: 500px;
+    border: 2px solid rgb(77, 77, 77);
+    border-radius: 20%;
+    
+
+
+}
+.rent-image{
+
+    width: 400px;
+    height: 500px;
+    border: 2px solid rgb(77, 77, 77);
+    border-radius: 20%;
+    
+}
+
+.buy-button{
+    width: 150px;
+    font-size: 20px;
+    padding: 2px 2px 2px 2px;
+    margin-left: 125px;
+    
+    
+}
+.sell-button{
+    width: 150px;
+    font-size: 20px;
+    padding: 2px 2px 2px 2px; 
+    margin-left: 130px;
+    
+}
+
+.rent-button{
+    width: 150px;
+    font-size: 20px;
+    padding: 2px 2px 2px 2px;
+    margin-left: 130px;
+    
+}
+
+.thirdbox{
+    background-color: black;
+    color: white;
+}
+
+.testimony {
+    text-shadow: 2px 2px rgb(41, 41, 41);
+    width: 500px;
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+    margin-left: 700px;
+    margin-top: 1px;
+    margin-right: 600px;
+    font-size: 25px;
+    font-family: cursive;
+    font-style: italic;
+    
+
+}
+
+.flex02{
+    display: flex;
+    margin-top: 1px;
+    
+}
+
+
+.forthbox {
+    background-color: black;
+    color: white;
+}
+.discount{
+
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    margin-top: 1px;
+    border:2px solid grey;
+    border-radius: 30%;
+    width: 350px;
+    height:20px ;
+    margin-left: 750px;
+
 }
 
